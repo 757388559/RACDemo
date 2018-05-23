@@ -1,14 +1,14 @@
 //
-//  MVVMDemoUITests.swift
-//  MVVMDemoUITests
+//  RACDemoUITests.swift
+//  RACDemoUITests
 //
-//  Created by liugangyi on 2018/5/7.
+//  Created by liugangyi on 2018/5/23.
 //  Copyright © 2018年 liugangyi. All rights reserved.
 //
 
 import XCTest
 
-class MVVMDemoUITests: XCTestCase {
+class RACDemoUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

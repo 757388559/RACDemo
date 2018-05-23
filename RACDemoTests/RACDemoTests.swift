@@ -1,15 +1,15 @@
 //
-//  MVVMDemoTests.swift
-//  MVVMDemoTests
+//  RACDemoTests.swift
+//  RACDemoTests
 //
-//  Created by liugangyi on 2018/5/7.
+//  Created by liugangyi on 2018/5/23.
 //  Copyright © 2018年 liugangyi. All rights reserved.
 //
 
 import XCTest
-@testable import MVVMDemo
+@testable import RACDemo
 
-class MVVMDemoTests: XCTestCase {
+class RACDemoTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

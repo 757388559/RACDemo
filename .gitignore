@@ -49,6 +49,7 @@ playground.xcworkspace
 #
 Pods/
 *.xcworkspace
+*.lock
 
 # Carthage
 #
